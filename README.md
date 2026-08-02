@@ -1,10 +1,8 @@
 # Atelier Ryza 2 - PS4 Button Icon Fix (Updated)
 
-[English](#english) | [日本語](#日本語)
+ [日本語](#日本語)
 
 ---
-
-## English
 
 Special K textures that change the Xbox button prompts to PS4 (DualShock 4) style in **Atelier Ryza 2: Lost Legends & the Secret Fairy**.
 
