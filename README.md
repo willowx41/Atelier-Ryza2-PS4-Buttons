@@ -14,9 +14,17 @@ This is a re-hashed version of Monterossa's 2021 "PS4 Buttons V9" pack, updated 
 
 - [Special K](https://special-k.info/)
 
+### Installing Special K
+
+1. Go to [special-k.info](https://special-k.info/) and download the installer (SKIF, Special K Injection Frontend)
+2. Run the installer
+3. Launch SKIF
+4. In SKIF, find Atelier Ryza 2 in your Steam library list and select it
+5. Launch the game from SKIF (or launch it from Steam as usual, with SKIF running)
+
 ### Installation
 
-1. Install Special K and launch Atelier Ryza 2 through it once
+1. With Special K running, launch Atelier Ryza 2 through it once
 2. Open the overlay with `Ctrl + Shift + Backspace`
 3. `File → Install Wrapper DLL`
 4. `File → Initialize Texture Mods`
@@ -47,9 +55,17 @@ Monterossa氏が2021年に公開した「PS4 Buttons V9」を、その後の複�
 
 - [Special K](https://special-k.info/)
 
+### Special Kのインストール
+
+1. [special-k.info](https://special-k.info/) にアクセスし、インストーラー（SKIF、Special K Injection Frontend）をダウンロード
+2. インストーラーを実行
+3. SKIFを起動
+4. SKIF内でSteamのライブラリ一覧からライザのアトリエ2を探して選択
+5. SKIFからゲームを起動する（またはSKIFを起動した状態でいつも通りSteamから起動してもよい）
+
 ### 導入方法
 
-1. Special Kをインストールし、ライザのアトリエ2を一度SpecialK経由で起動する
+1. SpecialKを起動した状態で、ライザのアトリエ2を一度起動する
 2. `Ctrl + Shift + Backspace` でオーバーレイを開く
 3. `File → Install Wrapper DLL` を実行
 4. `File → Initialize Texture Mods` を実行
