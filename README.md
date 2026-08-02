@@ -36,7 +36,10 @@ This is a re-hashed version of Monterossa's 2021 "PS4 Buttons V9" pack, updated 
 ### Tested on
 
 - Game version: Ver 1.08 (2024/10/11)
+- Game language: Japanese
 - Controller: DualShock 4
+
+Only verified with the game set to Japanese. The shared icon sheet also contains the in-game font, so the exact layout may differ under other languages — this has **not** been tested with any other language and may not work correctly (or could even corrupt text) there.
 
 Future game updates may shift texture hashes again and break this fix.
 
@@ -78,7 +81,10 @@ Monterossa氏が2021年に公開した「PS4 Buttons V9」を、その後の複�
 ### 動作確認環境
 
 - ゲームバージョン: Ver 1.08(2024/10/11)
+- ゲーム言語: 日本語
 - コントローラー: DualShock 4
+
+**動作確認は日本語版のみで行っています。** 共通アイコン一覧シートにはゲーム内フォントも同居しているため、言語設定によって内部レイアウトが異なる可能性があります。日本語以外の言語では正しく動作しない（あるいは文字化けする）可能性があるので、ご了承ください。
 
 ゲームが今後アップデートされた場合、再びハッシュ値がズレて反映されなくなる可能性があります。
 
