@@ -16,15 +16,16 @@ This is a re-hashed version of Monterossa's 2021 "PS4 Buttons V9" pack, updated 
 
 ### Installing Special K
 
-1. Go to [special-k.info](https://special-k.info/) and download the installer (SKIF, Special K Injection Frontend)
-2. Run the installer
-3. Launch SKIF
-4. In SKIF, find Atelier Ryza 2 in your Steam library list and select it
-5. Launch the game from SKIF (or launch it from Steam as usual, with SKIF running)
+1. Go to [special-k.info](https://special-k.info/) and download the installer
+2. Run `SpecialK.exe` and follow the setup steps
+3. After installation, locate `SpecialK64.dll` (usually in `C:\Users\<your username>\AppData\Local\Programs\Special K`)
+4. In Steam, right-click Atelier Ryza 2 → **Manage → Browse local files** to open the game folder
+5. Copy `SpecialK64.dll` into that game folder, then rename the copy to `dxgi.dll`
+6. Launch the game once through Steam as usual
 
 ### Installation
 
-1. With Special K running, launch Atelier Ryza 2 through it once
+1. Launch Atelier Ryza 2 through Steam once (with `dxgi.dll` in place, Special K loads automatically)
 2. Open the overlay with `Ctrl + Shift + Backspace`
 3. `File → Install Wrapper DLL`
 4. `File → Initialize Texture Mods`
@@ -57,15 +58,16 @@ Monterossa氏が2021年に公開した「PS4 Buttons V9」を、その後の複�
 
 ### Special Kのインストール
 
-1. [special-k.info](https://special-k.info/) にアクセスし、インストーラー（SKIF、Special K Injection Frontend）をダウンロード
-2. インストーラーを実行
-3. SKIFを起動
-4. SKIF内でSteamのライブラリ一覧からライザのアトリエ2を探して選択
-5. SKIFからゲームを起動する（またはSKIFを起動した状態でいつも通りSteamから起動してもよい）
+1. [special-k.info](https://special-k.info/) にアクセスし、インストーラーをダウンロード
+2. `SpecialK.exe` を実行し、手順に従ってインストール
+3. インストール完了後、`SpecialK64.dll` を探す（通常は `C:\Users\ユーザー名\AppData\Local\Programs\Special K` にある）
+4. Steamでライザのアトリエ2を右クリック → **管理 → ローカルファイルを閲覧** でゲームフォルダを開く
+5. `SpecialK64.dll` をそのゲームフォルダにコピーし、コピーした方を `dxgi.dll` にリネームする
+6. 一度、いつも通りSteamからゲームを起動する
 
 ### 導入方法
 
-1. SpecialKを起動した状態で、ライザのアトリエ2を一度起動する
+1. ライザのアトリエ2をSteamから起動する（`dxgi.dll`が置いてあれば自動でSpecialKが読み込まれる）
 2. `Ctrl + Shift + Backspace` でオーバーレイを開く
 3. `File → Install Wrapper DLL` を実行
 4. `File → Initialize Texture Mods` を実行
